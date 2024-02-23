@@ -20,7 +20,7 @@ const Footer = () => {
                 </li>
                 <li>
                     <motion.a
-                        href='https://github.com/777developer777'
+                        href='https://github.com/proreactdev'
                         target='_blank'
                         rel='noopener noreferrer'
                         whileHover={{ scale: 1.05 }}
