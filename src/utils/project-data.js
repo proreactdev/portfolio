@@ -16,8 +16,8 @@ export const projectsList = [
         name: 'BAZA Видео/фото-продакшн',
         description: 'Сайт-портфолио для видео/фото-продашкна',
         image: ProdComp,
-        link: 'https://777developer777.github.io/production-company',
-        code: 'https://github.com/777developer777/production-company',
+        link: 'https://proreactdev.github.io/production-company',
+        code: 'https://github.com/proreactdev/production-company',
         tools: ['Vanilla JS', 'SASS'],
     },
     {
@@ -25,8 +25,8 @@ export const projectsList = [
         description:
             'SPA приложение-игра, простроенная на базе Youtube API, цель которой - правильно выбрать клип с большим количеством просмотров',
         image: StreamsGuesser,
-        link: 'https://777developer777.github.io/streams-guesser',
-        code: 'https://github.com/777developer777/streams-guesser',
+        link: 'https://proreactdev.github.io/streams-guesser',
+        code: 'https://github.com/proreactdev/streams-guesser',
         tools: ['React', 'Chakra UI', 'API'],
     },
     {
@@ -34,8 +34,8 @@ export const projectsList = [
         description:
             'SPA приложение про флаги и страны. Имеются встроенные фильтры по континенту и стране',
         image: ReduxCountries,
-        link: 'https://777developer777.github.io/redux-countries',
-        code: 'https://github.com/777developer777/redux-countries',
+        link: 'https://proreactdev.github.io/redux-countries',
+        code: 'https://github.com/proreactdev/redux-countries',
         tools: ['React', 'Redux', 'Styled Components', 'API'],
     },
     {
@@ -43,8 +43,8 @@ export const projectsList = [
         description:
             'Небольшое приложение, показывающее работу фильтров при работе с Redux',
         image: ReduxJob,
-        link: 'https://777developer777.github.io/redux-job',
-        code: 'https://github.com/777developer777/redux-job',
+        link: 'https://proreactdev.github.io/redux-job',
+        code: 'https://github.com/proreactdev/redux-job',
         tools: ['React', 'Redux'],
     },
     {
@@ -52,16 +52,16 @@ export const projectsList = [
         description:
             'SPA приложение с рецептами еды. Использовано TheMealDB API для получения рецептов',
         image: ReactRecipe,
-        link: 'https://777developer777.github.io/react-recipe',
-        code: 'https://github.com/777developer777/react-recipe',
+        link: 'https://proreactdev.github.io/react-recipe',
+        code: 'https://github.com/proreactdev/react-recipe',
         tools: ['React', 'Materialize CSS', 'API'],
     },
     {
         name: 'React Shop',
         description: 'Приложение-магазин с функционирующей корзиной',
         image: ReactShop,
-        link: 'https://777developer777.github.io/react-shop',
-        code: 'https://github.com/777developer777/react-shop',
+        link: 'https://proreactdev.github.io/react-shop',
+        code: 'https://github.com/proreactdev/react-shop',
         tools: ['React', 'Materialize CSS', 'API'],
     },
     {
@@ -69,8 +69,8 @@ export const projectsList = [
         description:
             'Приложение, в котором можно найти фильмы через поиск и почитать про них информацию. Использовано OMDB API для получения данных о фильмах',
         image: ReactMovies,
-        link: 'https://777developer777.github.io/react-movies',
-        code: 'https://github.com/777developer777/react-movies',
+        link: 'https://proreactdev.github.io/react-movies',
+        code: 'https://github.com/proreactdev/react-movies',
         tools: ['React', 'Materialize CSS', 'API'],
     },
     {
@@ -78,8 +78,8 @@ export const projectsList = [
         description:
             'Приложение показывает местонахождение пользователя по IP адресу. Использовано Ipify API для получения данных об IP',
         image: IPTracker,
-        link: 'https://777developer777.github.io/ip-tracker',
-        code: 'https://github.com/777developer777/ip-tracker',
+        link: 'https://proreactdev.github.io/ip-tracker',
+        code: 'https://github.com/proreactdev/ip-tracker',
         tools: ['Vanilla JS', 'SASS', 'API'],
     },
     {
@@ -87,16 +87,16 @@ export const projectsList = [
         description:
             'TODO приложение с post/get/delete/put реквестами. Использовано JSONplaceholder API для работы c БД',
         image: TODOList,
-        link: 'https://777developer777.github.io/todo-list',
-        code: 'https://github.com/777developer777/todo-list',
+        link: 'https:proreactdev.github.io/todo-list',
+        code: 'https://github.com/proreactdev/todo-list',
         tools: ['Vanilla JS', 'API'],
     },
     {
         name: 'Gamer station',
         description: 'Лендинг для компьютерного клуба. Сделано с помощью Grid',
         image: GamerStation,
-        link: 'https://777developer777.github.io/gamer-station',
-        code: 'https://github.com/777developer777/gamer-station',
+        link: 'https://proreactdev.github.io/gamer-station',
+        code: 'https://github.com/proreactdev/gamer-station',
         tools: ['HTML', 'SASS'],
     },
     {
@@ -104,16 +104,16 @@ export const projectsList = [
         description:
             'Лендинг для компании по организации полётов на шарах. Сделано с помощью Flex',
         image: BalloonTours,
-        link: 'https://777developer777.github.io/balloon-tours',
-        code: 'https://github.com/777developer777/balloon-tours',
+        link: 'https://proreactdev.github.io/balloon-tours',
+        code: 'https://github.com/proreactdev/balloon-tours',
         tools: ['HTML', 'SASS'],
     },
     {
         name: 'Guitar Teacher',
         description: 'Лендинг для учителя по гитаре. Сделано с помощью Flex',
         image: GuitarTeacher,
-        link: 'https://777developer777.github.io/guitar-teacher',
-        code: 'https://github.com/777developer777/guitar-teacher',
+        link: 'https://proreactdev.github.io/guitar-teacher',
+        code: 'https://github.com/proreactdev/guitar-teacher',
         tools: ['HTML', 'SASS'],
     },
 ];
